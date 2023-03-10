@@ -1,5 +1,7 @@
+> [Altarise](https://discord.altarise.net/)
+
 # 💫 About Me:
-🔭 I’m currently working on [Altarise](https://discord.altarise.net/)<br>🌱 I’m currently learning JS, HTML, PHP, CSS, NODE, REACT
+🌱 I’m currently learning JS, HTML, PHP, CSS, NODE, REACT
 
 
 ## 🌐 Socials:
