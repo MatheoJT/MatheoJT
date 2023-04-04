@@ -1,4 +1,4 @@
-> [Altarise](https://discord.altarise.net/)
+
 
 # 💫 About Me:
 🌱 I’m currently learning JS, HTML, PHP, CSS, NODE, REACT
